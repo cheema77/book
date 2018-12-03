@@ -1,0 +1,14 @@
+
+   @font-face{ 
+	font-family: 'prociono-regular';
+	
+	src: url('../fonts/prociono_regular-webfont.woff2') format('woff2'),
+	     url('../fonts/prociono_regular-webfont.woff') format('woff');
+	  
+}
+ header h1{
+     text-align-last: center;
+    font-family: 'Prociono',serif;
+    font-size: 4rem;
+    word-spacing: 4px;
+}
